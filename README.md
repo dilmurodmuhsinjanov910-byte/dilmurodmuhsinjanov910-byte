@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Dilmurod%20Muhsinjanov&fontSize=60&fontAlignY=35&desc=Information%20Systems%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Dilmurod%20Muhsinjanov&fontSize=60&fontAlignY=35&desc=Information%20Systems%20Student%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 
   <br>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Infrastructures+Builder;Student+at+Tashkent+International+University;Always+Learning,+Always+Coding" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;AI+Infrastructures+Explorer;Student+at+Tashkent+International+University;Always+Learning,+Always+Coding" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -24,16 +24,16 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
+      <td width="55%" valign="top">
         <h3>🚀 Who am I?</h3>
         <ul>
-          <li>🔭 I’m currently building <b>Agentic AI Infrastructures</b>.</li>
-          <li>🌱 I’m focusing on <b>Information Systems and Technologies</b>.</li>
-          <li>🧠 I love creating smart, autonomous, and fast <b>AI Skills</b>.</li>
-          <li>🎯 Goal: To bridge the gap between complex backend systems and intuitive UI/UX.</li>
+          <li>🔭 I’m a passionate student diving deep into <b>Information Systems</b> and <b>Software Engineering</b>.</li>
+          <li>🌱 I’m currently learning modern web technologies and <b>Agentic AI Infrastructures</b>.</li>
+          <li>🧠 I enjoy building smart tools, automating tasks, and exploring how AI can write code.</li>
+          <li>🎯 Goal: To become a highly skilled Software Engineer and create impactful systems.</li>
         </ul>
       </td>
-      <td width="50%" valign="top">
+      <td width="45%" valign="top">
         <h3>🎓 Education</h3>
         <blockquote>
           <b>Tashkent International University (TIU)</b><br>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Journey & Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dilmurodmuhsinjanov910-byte&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
@@ -56,23 +56,23 @@
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💻 Tech Stack I'm Exploring
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind,react,nextjs&perline=8" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,git,github,vscode,powershell&perline=8" /><br>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,figma,vite,npm,yarn&perline=8" />
+  <p><i>Technologies I am currently learning and actively using in my projects:</i></p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,powershell,git,github,vscode&perline=8" /><br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,npm,figma&perline=8" />
 </div>
 
 ---
 
-## 🔥 Featured Engineering Projects
+## 🔥 Featured Projects & Experiments
 
-### 🧠 Antigravity Native AI Brain
-> Engineered a native **Knowledge Item (KI)** system for the Antigravity AI assistant, mapping 690+ dynamic skills directly into the AI's core. This enables lightning-fast, offline intelligence and context-aware task execution without external API overhead.
+### 🧠 Antigravity AI Knowledge Integration
+> As part of my journey into AI, I helped engineer a native **Knowledge Item (KI)** system for the Antigravity AI assistant. We mapped 690+ dynamic skills directly into the AI's core, allowing the agent to perform complex tasks locally.
 
 ### 🔄 Dynamic Skill Manager & Sync Engine
-> Developed a sophisticated PowerShell-based sync engine. It clones, hashes (MD5), and deduplicates massive global skill repositories, organizing them into a clean, JSON-indexed local database for AI consumption.
+> Developed a PowerShell-based sync engine to automate the management of AI skills. It clones, hashes (MD5), and deduplicates global repositories into a structured local database for AI consumption.
 
 ---
 
@@ -99,5 +99,5 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&width=100%" />
-  <p><i>"Quality is not an act, it is a habit."</i></p>
+  <p><i>"The beautiful thing about learning is that no one can take it away from you." — B.B. King</i></p>
 </div>
