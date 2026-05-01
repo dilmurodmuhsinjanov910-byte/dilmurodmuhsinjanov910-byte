@@ -19,28 +19,32 @@
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" height="35" /> 
+    About Me & My Journey
+  </h2>
+</div>
 
 <div align="center">
   <table>
     <tr>
-      <td width="55%" valign="top">
-        <h3>🚀 Who am I?</h3>
+      <td width="60%" valign="top">
         <ul>
           <li>🔭 I’m a passionate student diving deep into <b>Information Systems</b> and <b>Software Engineering</b>.</li>
           <li>🌱 I’m currently learning modern web technologies and <b>Agentic AI Infrastructures</b>.</li>
           <li>🧠 I enjoy building smart tools, automating tasks, and exploring how AI can write code.</li>
           <li>🎯 Goal: To become a highly skilled Software Engineer and create impactful systems.</li>
         </ul>
-      </td>
-      <td width="45%" valign="top">
-        <h3>🎓 Education</h3>
+        <br>
         <blockquote>
-          <b>Tashkent International University (TIU)</b><br>
-          <i>Major: Information Systems and Technologies</i><br>
-          <i>2024 — 2028</i><br>
+          🎓 <b>Tashkent International University (TIU)</b><br>
+          <i>Major: Information Systems and Technologies (2024 — 2028)</i><br>
           <img src="https://img.shields.io/badge/TIU-University-002147?style=flat-square&logo=googlescholar&logoColor=white" style="margin-top: 5px;"/>
         </blockquote>
+      </td>
+      <td width="40%" align="center" valign="center">
+        <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Coding.gif" alt="3D Coding Animation" width="250" style="border-radius: 15px;" />
       </td>
     </tr>
   </table>
@@ -48,7 +52,12 @@
 
 ---
 
-## 🏆 Journey & Achievements
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" />
+    Achievements
+  </h2>
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dilmurodmuhsinjanov910-byte&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
@@ -56,7 +65,12 @@
 
 ---
 
-## 💻 Tech Stack I'm Exploring
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" />
+    Tech Stack I'm Exploring
+  </h2>
+</div>
 
 <div align="center">
   <p><i>Technologies I am currently learning and actively using in my projects:</i></p>
@@ -66,17 +80,34 @@
 
 ---
 
-## 🔥 Featured Projects & Experiments
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" />
+    Featured Projects & Experiments
+  </h2>
+</div>
 
-### 🧠 Antigravity AI Knowledge Integration
-> As part of my journey into AI, I helped engineer a native **Knowledge Item (KI)** system for the Antigravity AI assistant. We mapped 690+ dynamic skills directly into the AI's core, allowing the agent to perform complex tasks locally.
-
-### 🔄 Dynamic Skill Manager & Sync Engine
-> Developed a PowerShell-based sync engine to automate the management of AI skills. It clones, hashes (MD5), and deduplicates global repositories into a structured local database for AI consumption.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 Antigravity AI Brain</h3>
+      <p>Engineered a native <b>Knowledge Item (KI)</b> system for the Antigravity AI assistant. Mapped 690+ dynamic skills directly into the AI's core, enabling autonomous local knowledge recall.</p>
+    </td>
+    <td width="50%">
+      <h3>🔄 Dynamic Skill Sync Engine</h3>
+      <p>Developed a PowerShell-based sync engine to automate AI skills. It clones, hashes (MD5), and deduplicates global repositories into a structured local database.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Analytics
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35" />
+    GitHub Analytics & Global Activity
+  </h2>
+</div>
 
 <div align="center">
   <table>
@@ -99,5 +130,5 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&width=100%" />
-  <p><i>"The beautiful thing about learning is that no one can take it away from you." — B.B. King</i></p>
+  <p><i>"The beautiful thing about learning is that no one can take it away from you."</i></p>
 </div>
