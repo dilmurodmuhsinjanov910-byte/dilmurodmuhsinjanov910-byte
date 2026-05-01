@@ -1,88 +1,69 @@
-# 👋 Hi there, I'm Dilmurod Muhsinjanov!
+# <p align="center"> ✨ Dilmurod Muhsinjanov ✨ </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=AI%20&%20Full-Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30cfd0,100:330867&height=280&section=header&text=Information%20Systems%20Engineer&fontSize=45&animation=fadeIn&fontAlignY=38" />
 </p>
 
-## 🎓 Education
-<p align="left">
-  <img src="https://mentalaba.uz/assets/img/otm_logo/tiu.png" align="right" width="120" />
-  <b>Tashkent International University (TIU)</b><br>
-  📅 <i>2024 — 2028</i><br>
-  Pursuing an advanced degree in Computer Science and Engineering, focusing on AI-driven systems and modern software architecture.
-</p>
-
----
-
-## 🛠️ Current Project: Antigravity Dynamic Skill Manager
-I am currently building a state-of-the-art **Lazy Loading Skill Infrastructure** for Agentic AI. 
-
-- **🔍 Smart Sync**: Automated synchronization with multiple global skill repositories.
-- **🛡️ MD5 Deduplication**: Intelligent content hashing to maintain a clean, high-quality knowledge base.
-- **🧠 AI Brain Integration**: Native integration with Antigravity AI, allowing the agent to "learn" and "recall" 690+ unique skills locally.
-- **⚡ Token Optimization**: Reducing AI API costs by up to 90% through efficient local knowledge retrieval.
-
----
-
-## 💻 Technical Skills
-<table align="center">
+## 🎓 Academic Profile
+<table align="center" style="border: none;">
   <tr>
-    <td align="center" width="120"><b>Languages</b></td>
-    <td align="center" width="120"><b>Frontend</b></td>
-    <td align="center" width="120"><b>Backend</b></td>
-    <td align="center" width="120"><b>Tools</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <td width="70%" style="border: none;">
+      <h3>Tashkent International University (TIU)</h3>
+      <p><b>Major:</b> Information Systems and Technologies</p>
+      <p><b>Duration:</b> 2024 — 2028</p>
+      <p><i>Focusing on the intersection of Data Science, AI Infrastructures, and Cloud Computing to build the next generation of intelligent software.</i></p>
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /><br>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+    <td width="30%" align="center" style="border: none;">
+      <img src="https://mentalaba.uz/assets/img/otm_logo/tiu.png" width="150" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 GitHub Ecosystem
+## 🛠️ Featured Projects & Engineering
+I specialize in building local-first AI infrastructures that optimize performance and minimize costs.
+
+### 🧠 Antigravity Native AI Integration
+- **Concept**: Engineered a native **Knowledge Item (KI)** system for Antigravity AI.
+- **Achievement**: Integrated 690+ dynamic skills directly into the AI's "Brain," enabling autonomous local knowledge recall without visual UI overhead.
+- **Impact**: Zero-latency skill retrieval and significant token savings.
+
+### 🔄 Dynamic Skill Sync & Indexer
+- **Tech**: PowerShell, Git, MD5 Hashing.
+- **Function**: Multi-repo synchronization with MD5-based deduplication and automated categorization (UI/UX, 3D, Full-Stack, AI).
+- **Result**: A clean, structured JSON-indexed local knowledge database.
+
+### 🎨 Professional Profile Engineering
+- **Concept**: Designing "Premium" GitHub ecosystems using modern UI/UX principles (Capsule Render, Shields.io, GitHub Stats).
+
+---
+
+## 🚀 Skills & Technologies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilmurodmuhsinjanov910-byte&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,python,git,powershell,vscode,docker,mongodb&perline=6" />
+</p>
+
+---
+
+## 📊 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilmurodmuhsinjanov910-byte&show_icons=true&theme=vue-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D523&text_color=B8BFC6" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilmurodmuhsinjanov910-byte&layout=compact&theme=vue-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D523&text_color=B8BFC6" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilmurodmuhsinjanov910-byte&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilmurodmuhsinjanov910-byte&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilmurodmuhsinjanov910-byte&theme=vue-dark&hide_border=true&background=1F222E&stroke=F85D7F&ring=F8D523&fire=F85D7F&currStreakLabel=F8D523" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://t.me/dilmurod_muhsinjanov">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dilmurod-muhsinjanov-dm093zzz">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://t.me/dilmurod_muhsinjanov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dilmurod-muhsinjanov-dm093zzz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilmurodmuhsinjanov910-byte&label=Profile%20Views&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=dilmurodmuhsinjanov910-byte&label=Global+Visits&color=F85D7F&style=flat-square" />
 </p>
