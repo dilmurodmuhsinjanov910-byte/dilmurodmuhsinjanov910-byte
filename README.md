@@ -11,31 +11,31 @@
       <h3>Tashkent International University (TIU)</h3>
       <p><b>Major:</b> Information Systems and Technologies</p>
       <p><b>Duration:</b> 2024 — 2028</p>
-      <p><i>Focusing on the intersection of Data Science, AI Infrastructures, and Cloud Computing to build the next generation of intelligent software.</i></p>
+      <p><i>Focusing on building advanced information infrastructures, AI systems, and automated data processing pipelines.</i></p>
     </td>
     <td width="30%" align="center" style="border: none;">
-      <img src="https://mentalaba.uz/assets/img/otm_logo/tiu.png" width="150" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://tiu.uz/assets/img/logo.png" width="150" style="border-radius: 15px; background: white; padding: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" onerror="this.src='https://mentalaba.uz/assets/img/otm_logo/tiu.png'" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Featured Projects & Engineering
-I specialize in building local-first AI infrastructures that optimize performance and minimize costs.
+## 🛠️ Engineering Portfolio & System Architecture
+This profile represents a complete ecosystem of AI and system automation projects developed from scratch.
 
-### 🧠 Antigravity Native AI Integration
-- **Concept**: Engineered a native **Knowledge Item (KI)** system for Antigravity AI.
-- **Achievement**: Integrated 690+ dynamic skills directly into the AI's "Brain," enabling autonomous local knowledge recall without visual UI overhead.
-- **Impact**: Zero-latency skill retrieval and significant token savings.
+### 🧠 Antigravity Native AI Integration (Brain Engineering)
+- **Concept**: Engineered a native **Knowledge Item (KI)** system for the Antigravity AI assistant.
+- **Implementation**: Mapped 690+ dynamic skills directly into the AI's core "Brain," allowing the agent to perform complex tasks (3D, UI/UX, Full-Stack) locally without external lookups.
+- **Result**: Native, high-speed skill retrieval with optimized token efficiency.
 
-### 🔄 Dynamic Skill Sync & Indexer
-- **Tech**: PowerShell, Git, MD5 Hashing.
-- **Function**: Multi-repo synchronization with MD5-based deduplication and automated categorization (UI/UX, 3D, Full-Stack, AI).
-- **Result**: A clean, structured JSON-indexed local knowledge database.
+### 🔄 Dynamic Skill Manager & Sync Engine
+- **Core**: Developed a PowerShell-based sync engine that clones, hashes (MD5), and deduplicates massive skill repositories.
+- **Infrastructure**: Automated categorization system (UI/UX, 3D Animation, Full-Stack, AI) with a centralized JSON indexing system for AI retrieval.
 
-### 🎨 Professional Profile Engineering
-- **Concept**: Designing "Premium" GitHub ecosystems using modern UI/UX principles (Capsule Render, Shields.io, GitHub Stats).
+### 🚀 GitHub Ecosystem Optimization
+- **UX Design**: Implemented advanced Profile README engineering using dynamic banners, automated stats, and UI/UX best practices.
+- **Identity**: Built a professional English-first developer identity to showcase information systems expertise.
 
 ---
 
@@ -50,10 +50,6 @@ I specialize in building local-first AI infrastructures that optimize performanc
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dilmurodmuhsinjanov910-byte&show_icons=true&theme=vue-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D523&text_color=B8BFC6" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilmurodmuhsinjanov910-byte&layout=compact&theme=vue-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D523&text_color=B8BFC6" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilmurodmuhsinjanov910-byte&theme=vue-dark&hide_border=true&background=1F222E&stroke=F85D7F&ring=F8D523&fire=F85D7F&currStreakLabel=F8D523" />
 </p>
 
 ---
